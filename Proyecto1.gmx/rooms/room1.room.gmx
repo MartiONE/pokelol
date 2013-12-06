@@ -3,8 +3,8 @@
   <caption></caption>
   <width>640</width>
   <height>480</height>
-  <vsnap>16</vsnap>
-  <hsnap>16</hsnap>
+  <vsnap>8</vsnap>
+  <hsnap>32</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -61,29 +61,6 @@
     <instance objName="obj_arbol" x="32" y="288" name="inst_1A4898C4" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
     <instance objName="obj_arbol" x="32" y="320" name="inst_345962A6" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
     <instance objName="obj_arbol" x="32" y="352" name="inst_EA150DC0" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="32" y="384" name="inst_6DAAB085" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="32" y="416" name="inst_8456C983" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="32" y="448" name="inst_218F6E28" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="64" y="448" name="inst_EB07424C" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="96" y="448" name="inst_AC029497" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="128" y="448" name="inst_2923BA4B" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="160" y="448" name="inst_6CAFBDA4" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="192" y="448" name="inst_21BA91D2" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="224" y="448" name="inst_FD6AB98D" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="256" y="448" name="inst_3693E534" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="288" y="448" name="inst_D375218D" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="320" y="448" name="inst_2E6C4D0C" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="352" y="448" name="inst_9B37DC6F" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="384" y="448" name="inst_C351530C" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="416" y="448" name="inst_9A22136F" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="448" y="448" name="inst_7EBEAAEC" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="480" y="448" name="inst_DAF1E78E" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="512" y="448" name="inst_B3FF7BF9" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="544" y="448" name="inst_EDACFC29" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="576" y="448" name="inst_D1C7E814" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="608" y="448" name="inst_4D0F6AFC" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="608" y="416" name="inst_C45120CD" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
-    <instance objName="obj_arbol" x="608" y="384" name="inst_94039646" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
     <instance objName="obj_arbol" x="608" y="352" name="inst_8F624C45" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
     <instance objName="obj_arbol" x="608" y="320" name="inst_670157D3" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
     <instance objName="obj_arbol" x="608" y="288" name="inst_DF489C32" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
@@ -118,6 +95,13 @@
     <instance objName="obj_entrenador" x="320" y="224" name="inst_A27D72DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_CasaRoja" x="224" y="192" name="inst_81C2118C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_puerta" x="208" y="215" name="inst_F728165C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_menu" x="320" y="456" name="inst_49F39BD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_menu" x="576" y="448" name="inst_3659B4A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_arbol" x="32" y="384" name="inst_DA25764A" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
+    <instance objName="obj_arbol" x="32" y="352" name="inst_FBA18215" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
+    <instance objName="obj_arbol" x="608" y="384" name="inst_189C4001" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
+    <instance objName="obj_menu_princi" x="320" y="224" name="inst_C63D1ACF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_exit" x="320" y="296" name="inst_3F8BEB04" locked="0" code="" scaleX="2.31428575515747" scaleY="1.20000004768372" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
