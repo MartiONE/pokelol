@@ -3,8 +3,8 @@
   <caption></caption>
   <width>640</width>
   <height>480</height>
-  <vsnap>8</vsnap>
-  <hsnap>32</hsnap>
+  <vsnap>16</vsnap>
+  <hsnap>16</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -102,6 +102,32 @@
     <instance objName="obj_arbol" x="608" y="384" name="inst_189C4001" locked="0" code="" scaleX="0.170000001788139" scaleY="0.248804003000259" colour="4294967295" rotation="0"/>
     <instance objName="obj_menu_princi" x="320" y="224" name="inst_C63D1ACF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_exit" x="320" y="296" name="inst_3F8BEB04" locked="0" code="" scaleX="2.31428575515747" scaleY="1.20000004768372" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="480" y="80" name="inst_EC2AA63C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="496" y="80" name="inst_11BC8D77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="512" y="80" name="inst_D2E62ECA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="528" y="80" name="inst_5C76A431" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="544" y="80" name="inst_94C9ABE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="544" y="80" name="inst_09473BBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="560" y="80" name="inst_8E59563D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="544" y="96" name="inst_DCAD2A28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="560" y="96" name="inst_93C3160C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="528" y="96" name="inst_3A03EA39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="512" y="96" name="inst_BDE93FD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="496" y="96" name="inst_F0C9C458" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="480" y="96" name="inst_BB98003E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="480" y="112" name="inst_862EA64C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="496" y="112" name="inst_752E69E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="512" y="112" name="inst_CA897C9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="528" y="112" name="inst_FC06A216" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="528" y="112" name="inst_C6EF0E91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="544" y="112" name="inst_D8340831" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="560" y="112" name="inst_D08E8F66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="560" y="128" name="inst_F300EC66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="544" y="128" name="inst_6EBF1DD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="528" y="128" name="inst_E864B053" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="512" y="128" name="inst_7BC35B29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="496" y="128" name="inst_122214F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brosa" x="480" y="128" name="inst_2A9E874D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
